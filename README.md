@@ -14,3 +14,8 @@ and to a lesser extent :)
 - Java
 
 Yeah I know it's not useful but I don't have any idea what to put here anyways 😁
+
+![AngelMunoz's Github Stats](https://github-readme-stats.vercel.app/api?username=AngelMunoz&count_private=true&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMunoz&theme=gotham)
+
+![AngelMunoz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Tuna&theme=gotham)
