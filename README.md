@@ -2,13 +2,17 @@
 
 Welcome to my profile :) here you'll find a bunch of unfinished half-baked side projects (I'm pretty good at doing those)
 
-I can do stuff in 
+## Currently Working on [Perla](https://github.com/AngelMunoz/Perla)
 
-- Javascript/Typescript
+You should really check it out :)
+
+I can do stuff in:
+
 - F#
+- Javascript/Typescript
 - C#
 
-and to a lesser extent :)
+and to a lesser extent:
 
 - Python
 - Java
