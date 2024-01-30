@@ -4,20 +4,17 @@
 
 Welcome to my profile :) here you'll find a bunch of unfinished half-baked side projects (I'm pretty good at doing those)
 
-## Currently Working on [Perla](https://github.com/AngelMunoz/Perla)
-
-You should really check it out :)
-
 I can do stuff in:
 
 - F#
 - Javascript/Typescript
 - C#
+- Kotlin
 
 and to a lesser extent:
 
-- Kotlin
 - Java
+- Python
 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L02EUS2)
